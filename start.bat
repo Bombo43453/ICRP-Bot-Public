@@ -1,0 +1,1 @@
+pm2 start app.js && pm2 monit

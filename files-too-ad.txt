@@ -1,0 +1,21 @@
+1. Say.js (commands, under normal commands)
+2. Help1.js (comnmands, under core)
+3. app.js 
+4. help.js (commands,  under core)
+5. tictactoe.js (commands, under fun)
+6. Id.js (commands, under moderation)
+7. npm i discord-tictactoe
+8. Apply- LEO (commands, under Applications)
+9. npm i discord-stop-spam
+10. Message.js (commands, under events)
+11. npm i discord-transcript
+12. npm i reconlx
+13. npm i discord-anti-spam
+14. Credit.js (commands, under core)
+15. aop.js (under Normal Commands)
+16. transcript.js (commands, under moderation)
+17. Serverinfo.js (commands, under Normal Commands)
+18. unmute.js (commands, under moderation)
+19. Warn Folder (under commands)
+20. Warn Schema (under database/models/warns.js)
+21. whois.js (commands/moderation)
