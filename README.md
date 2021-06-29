@@ -28,3 +28,5 @@ SERVERIP2 can be the same without the port. And server port, just put in the por
 To connect your own mongoose database, just find the login link and then put it under the database folder then on the mongoose file. 
 
 To have the fivem server status to work. Go under events, and then delete the file ready and keep ready1. In the code of ready one, un slash the part the says to. 
+
+There Is An Updated Version OF This Bot at https://github.com/Gravxd/ICRP-Bot.
